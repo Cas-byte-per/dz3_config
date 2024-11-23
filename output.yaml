@@ -1,0 +1,11 @@
+b: 5
+c: 5
+combined: Hello, world!
+greeting: Hello
+numbers:
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+sum: 10
